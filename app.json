@@ -12,7 +12,8 @@
     "pages/feedback/index",
     "pages/login/index",
     "pages/auth/index",
-    "pages/pay/index"
+    "pages/pay/index",
+    "components/Tabs/Tabs"
   ],
   "window": {
     "backgroundTextStyle": "dark",
@@ -53,8 +54,5 @@
       }
     ]
   },
-  
-    
   "sitemapLocation": "sitemap.json"
 }
-    
